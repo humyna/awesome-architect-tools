@@ -2,6 +2,7 @@
 A curated list of awesome architect tools.
 
 
+
 ### 技术选型
 TODO
 
@@ -27,7 +28,7 @@ TODO
   - 服务端模拟
   - 测试监控
   - 自编码压测
- 
+
 ### 控制层组件
 - 基础框架-spring
 - 参数校验
@@ -41,7 +42,7 @@ TODO
   - TEXT
   - 类型转换：Dozer
 - 高性能工具
-  
+
 ### 服务端开发
 - 权限
   - Shiro Security
